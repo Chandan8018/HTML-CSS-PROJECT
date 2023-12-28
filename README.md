@@ -1,4 +1,4 @@
-# HTML-CSS-PROJECT.
+# HTML-CSS-PROJECT
 Project Name: Amazon clone.
 Develop By : Chandan Kumar Sahoo.
 Embark on a Journey of Digital Creation with My First HTML &amp; CSS Project!. 
